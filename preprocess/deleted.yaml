@@ -1,0 +1,253 @@
+수동 삭제 리스트
+- name: 강성훈
+  rss: https://j.mearie.org/rss
+  reason: 블로그 상태 안좋음
+- name: 강화수
+  rss: https://hwasurr.io/rss.xml
+  reason: 블로그 이전
+- name: 고영훈
+  rss: https://koyo.kr/index.xml
+  reason: 404
+- name: 김광순
+  rss: https://v2.velog.io/rss/kskim
+  reason: 작성 글이 없음
+- name: 김놀부
+  rss: https://nolboo.kim/feed.xml
+  reason: 블로그는 있는데 피드는 없음
+- name: 김덕홍
+  rss: http://insanehong.kr/rss.xml
+  reason: 블로그 매매
+- name: 김민근
+  rss: https://getsolaris.kr/index.xml
+  reason: 블로그는 있는데 피드는 없음
+- name: 김민서
+  rss: https://rss.blog.naver.com/mseokim011117.xml
+  reason: 작성 글이 없음
+- name: 김민정
+  rss: https://www.howdy-mj.me/rss.xml
+  reason: 블로그는 있는데 피드는 없음
+- name: 김병환
+  rss: https://kimbyeonghwan.tumblr.com/rss
+  reason: 텀블러 블로그는 피드 차단
+- name: 김상연
+  rss: https://kimsangyeon-github-io.vercel.app/feed.xml
+  reason: 404
+- name: 김상훈
+  rss: https://interpiler.com/index.php/feed/
+  reason: 블로그는 있는데 피드는 없음
+- name: 김석영
+  rss: https://tech.zzizily.com/feed.xml
+  reason: cloudflare로 인해 피드 접근 불가
+- name: 김영준
+  rss: https://linked2ev.github.io/feed.xml
+  reason: 블로그는 있는데 피드는 없음
+- name: 김정식
+  rss: https://joungsik.github.io/index.xml
+  reason: 블로그는 있는데 피드는 없음
+- name: 김정현
+  rss: https://gluebyte.tumblr.com/rss
+  reason: 텀블러 블로그는 피드 차단
+- name: 김종진
+  rss: https://logonme.net/feed/
+  reason: 블로그 이전
+- name: 김창회
+  rss: https://kormelon.com/rss
+  reason: 블로그 미유지
+- name: 김현지
+  rss: https://www.morolog.dev/rss
+  reason: 블로그 미유지
+- name: 남윤지
+  rss: https://sehajyang.github.io/atom.xml
+  reason: 블로그 미유지
+- name: 모상우
+  rss: https://brunch.co.kr/rss/@@FOY
+  reason: 블로그 미유지
+- name: 박경준
+  rss: https://ryanpark.dev/rss
+  reason: 블로그 미유지
+- name: 박민우
+  rss: https://earlybird.kr/feed
+  reason: 블로그 미유지
+- name: 박상길
+  rss: https://likejazz.com/rss
+  reason: 블로그는 있는데 피드는 없음
+- name: 박상우
+  rss: https://v2.velog.io/rss/sw7190
+  reason: 작성 글이 없음  
+- name: 박상윤
+  rss: https://v2.velog.io/rss/pa324
+  reason: 작성 글이 없음  
+- name: 박정원
+  rss: https://rss.blog.naver.com/pjws0321.xml
+  reason: 블로그 미유지
+- name: 박종현
+  rss: http://tmmse.xyz/author/park/rss/
+  reason: 블로그 주소 변경
+- name: 박준규
+  rss: https://brunch.co.kr/rss/@@301t
+  reason: 블로그 미유지
+- name: 박지원
+  rss: https://www.jiwon.me/rss/
+  reason: 블로그 미유지
+- name: 배성혁
+  rss: https://debop.tumblr.com/rss
+  reason: 텀블러 블로그는 피드 차단
+- name: 배영섭
+  rss: https://byseop.netlify.app/rss.xml
+  reason: 블로그는 있는데 피드는 없음
+- name: 백대현
+  rss: https://medium.com/feed/@daehyun.baek
+  reason: 블로그 미유지
+- name: Steve Park
+  rss: https://brunch.co.kr/rss/@@Aex
+  reason: 블로그 미유지
+- name: 서동현
+  rss: https://blog.smilecat.dev/rss.xml
+  reason: 블로그 미유지
+- name: 서민구
+  rss: http://mkseo.pe.kr/blog/?feed=rss2
+  reason: 블로그 미유지
+- name: 소용환
+  rss: https://feeds.feedburner.com/sauru-so?format=xml
+  reason: 블로그 미유지  
+- name: 손승현
+  rss: https://v2.velog.io/rss/jamessoun93
+  reason: 작성 글이 없음
+- name: 손현경
+  rss: https://shkisme.vercel.app/rss.xml
+  reason: 블로그 미유지
+- name: 송근일
+  rss: https://data-engineer-song.tistory.com/rss
+  reason: 작성 글이 없음
+- name: 송은우
+  rss: https://rampart81.github.io/rss.xml
+  reason: 블로그는 있는데 피드는 없음
+- name: 신영진
+  rss: https://feeds.feedburner.com/codewiz
+  reason: 블로그는 있는데 피드는 없음
+- name: 신예지
+  rss: https://dev.bloodevil.com/rss
+  reason: 텀블러 블로그는 피드 차단
+- name: 안세원
+  rss: https://kingorihouse.tumblr.com/rss
+  reason: 텀블러 블로그는 피드 차단
+- name: 유다현
+  rss: https://yuda.dev/rss
+  reason: 블로그 미유지
+- name: 유재상
+  rss: https://devlog.jsyoo5b.net/ko/index.xml
+  reason: 블로그는 있는데 피드는 없음
+- name: 육승찬
+  rss: https://loup1788.blogspot.com/feeds/posts/default
+  reason: 작성 글이 없음
+- name: 이광기
+  rss: https://lelecoder.com/rss/
+  reason: 블로그 미유지
+- name: 이광식
+  rss: http://www.kwangsiklee.com/ko/feed/
+  reason: 블로그 미유지
+- name: 이기창
+  rss: https://ratsgo.github.io/atom.xml
+  reason: 블로그는 있는데 피드는 없음
+- name: 이동근
+  rss: https://shylog.com/rss.xml
+  reason: 블로그 미유지
+- name: 이동준
+  rss: https://javalab.org/feed/ 
+  reason: 블로그는 있는데 피드는 없음
+- name: 이두희
+  rss: https://brunch.co.kr/rss/@@ch4f
+  reason: 작성글 없음
+- name: 이민지
+  rss: https://v2.velog.io/rss/bbio3o
+  reason: 작성 글이 없음
+- name: 이민현
+  rss: https://mintheon.com/feed.xml
+  reason: 블로그는 있는데 피드는 없음
+- name: 이민호
+  rss: https://lumiamitie.github.io/feed.xml
+  reason: 알수없는에러
+- name: 이용준
+  rss: https://wooooooak.github.io/atom.xml
+  reason: 블로그 미유지
+- name: 이윤창
+  rss: https://daddycat.blogspot.com/feeds/posts/default
+  reason: 블로그 미유지
+- name: 이재원
+  rss: https://alongtimeago.tistory.com/rss
+  reason: 블로그 미유지
+- name: 이지원
+  rss: https://jiolc.tistory.com/rss
+  reason: 블로그 미유지
+- name: 이진석
+  rss: https://medium.com/feed/@allieuslee
+  reason: 블로그 미유지
+- name: 이진석
+  rss: https://blog.leehack.com/index.xml
+  reason: 블로그는 있는데 피드는 없음
+- name: 이진영
+  rss: https://v2.velog.io/rss/wlsdud2194
+  reason: 작성 글이 없음
+- name: 이해영
+  rss: https://www.haeyounglee.com/rss
+  reason: 텀블러 블로그는 피드 차단
+- name: 임채훈
+  rss: https://www.sizplay.dev/rss.xml
+  reason: 블로그 미유지
+- name: 장준혁
+  rss: https://medium.com/feed/@hyuk
+  reason: 블로그 미유지
+- name: 전상혁
+  rss: https://sanghyukchun.github.io/atom.xml
+  reason: 블로그는 있는데 피드는 없음
+- name: 정도영
+  rss: https://medium.com/feed/@hugh-23075
+  reason: 블로그 미유지
+- name: 정승현
+  rss: https://www.roach-dev.com/rss.xml
+  reason: 블로그 미유지 
+- name: 정윤성
+  rss: https://yoonsung.github.io/atom.xml
+  reason: 블로그는 있는데 피드는 없음
+- name: 정한별
+  rss: https://v2.velog.io/rss/berrygood
+  reason: 작성 글이 없음
+- name: 조성빈
+  rss: https://kadensungbincho.com/feed/blog/feed.xml
+  reason: 블로그 미유지 
+- name: 조성재
+  rss: https://v2.velog.io/rss/rubycho
+  reason: 작성 글이 없음
+- name: 조은
+  rss: https://techhtml.github.io/
+  reason: 블로그는 있는데 피드는 없음
+- name: 조재우
+  rss: https://flowkater.io/rss.xml
+  reason: 블로그는 있는데 피드는 없음
+- name: 조준호
+  rss: http://tmmse.xyz/author/junho/rss/
+  reason: 블로그 주소 변경
+- name: 조중현
+  rss: https://reniew.github.io/atom.xml
+  reason: 블로그는 있는데 피드는 없음
+- name: 최동섭
+  rss: https://javadongsub.blogspot.com/feeds/posts/default?alt=rss
+  reason: 블로그 미유지
+- name: 추명호
+  rss: https://v2.velog.io/rss/myeongho0812
+  reason: 작성 글이 없음
+- name: 한성민
+  rss: https://blog.pigno.se/rss
+  reason: 텀블러 블로그는 피드 차단
+- name: 홍지훈
+  rss: http://hongji3354.tistory.com/rss
+  reason: 블로그 미유지
+- name: 황대영
+  rss: https://ddayin.tistory.com/rss
+  reason: 블로그 미유지
+- name: 임종대
+  rss: https://medium.com/feed/@jongdae.lim
+  reason: 피드 깨짐
+- name: 조철제
+  rss: https://falsy.me/feed
+  reason: 블로그 접속 불가

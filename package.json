@@ -1,0 +1,32 @@
+{
+  "name": "letter",
+  "version": "1.0.0",
+  "description": "RSS 피드에서 어제 작성된 포스트를 마크다운으로 저장하는 도구",
+  "main": "read.js",
+  "scripts": {
+    "start": "node read.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhk0530/letter.git"
+  },
+  "keywords": [
+    "rss",
+    "markdown",
+    "automation",
+    "feed"
+  ],
+  "author": "jinhwan",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jhk0530/letter/issues"
+  },
+  "homepage": "https://github.com/jhk0530/letter#readme",
+  "dependencies": {
+    "got": "^14.4.7",
+    "js-yaml": "^4.1.0",
+    "rss-parser": "^3.13.0"
+  }
+}
