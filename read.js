@@ -6,8 +6,11 @@ const { Octokit } = require("@octokit/rest");
 // Returns yesterday's date in YYYY-MM-DD format
 function getYesterdayYMD() {
   const d = new Date();
+  // UTC+9(KST)로 보정
+  d.setHours(d.getHours() + 9);
   d.setDate(d.getDate() - 1);
-  return d.toISOString().slice(0, 10);
+  console.log("time: ", d);
+  return d.toISOString().slice(10);
 }
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
@@ -82,6 +85,7 @@ ${desc}
   const data = yaml.load(fileContents);
 
   const yesterday = getYesterdayYMD();
+  console.log(`Fetching posts for: ${yesterday}`);
 
   // Clear the markdown file if it exists
   fs.writeFileSync("daily.md", '<ul style="padding:0;">\n');
@@ -212,6 +216,7 @@ ${desc}
 
   // Print result message
   if (fs.readFileSync("daily.md", "utf8").trim()) {
+    console.log("Day : " + yesterday);
     console.log("Markdown file saved: daily.md");
   } else {
     console.log("No posts found for yesterday.");
