@@ -106,5 +106,26 @@ input[type="submit"]:hover {
 /* 로고 이미지 */
 .logo {
   max-width: 180px;
-  margin-bottom: 24px;
+}
+
+/* Style for the close button */
+.button {
+  display: inline-block;
+  padding: 12px 32px;
+  background: #6366f1; /* 기존 테마의 보라색 */
+  color: #fff;
+  border-radius: 8px; /* 컨테이너와 유사한 라운드 */
+  text-decoration: none;
+  font-weight: 700; /* 제목과 비슷한 굵기 */
+  font-size: 1.05em;
+  margin-top: 24px;
+  transition: background 0.2s, box-shadow 0.2s;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(99, 102, 241, 0.08); /* 은은한 그림자 */
+  letter-spacing: 0.02em;
+}
+.button:hover {
+  background: #4338ca; /* hover 시 더 진한 보라색 */
+  box-shadow: 0 4px 16px rgba(67, 56, 202, 0.12);
 }

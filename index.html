@@ -3,7 +3,6 @@
   <head>
     <meta charset="UTF-8" />
     <title>WHILE0124</title>
-    <!-- Link to external CSS file -->
     <link rel="stylesheet" href="brand/styles.css" />
   </head>
   <body>
@@ -12,13 +11,14 @@
         src="brand/logo.png"
         alt="while0124 로고"
         class="logo"
-        style="max-width: 180px; margin-bottom: 24px"
+        style="max-width: 180px"
       />
       <div class="subtitle">멋진 블로그의 인사이트를 뉴스레터로<br /></div>
       <form
         method="post"
         action="https://7Epick.jahnen.io/subscription/form"
         class="listmonk-form"
+        id="newsletterForm"
       >
         <input type="hidden" name="nonce" />
         <input type="email" name="email" required placeholder="E-mail" />
@@ -34,6 +34,7 @@
         </p>
         <input type="submit" value="구독 신청" />
       </form>
+      <script src="script.js"></script>
     </div>
     <div class="footer">&copy; 2025 jahnen. All rights reserved.</div>
   </body>
