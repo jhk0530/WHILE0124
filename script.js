@@ -23,13 +23,4 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     });
   }
-
-  // Get the close button element
-  const closeBtn = document.getElementById("closeBtn");
-  if (closeBtn) {
-    closeBtn.onclick = function (e) {
-      e.preventDefault();
-      window.close();
-    };
-  }
 });
