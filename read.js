@@ -9,8 +9,7 @@ function getYesterdayYMD() {
   // UTC+9(KST)로 보정
   d.setHours(d.getHours() + 9);
   d.setDate(d.getDate() - 1);
-  console.log("time: ", d);
-  return d.toISOString().slice(10);
+  return d.toISOString().slice(0, 10);
 }
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
