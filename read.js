@@ -95,9 +95,8 @@ ${desc}
     font-size: 90% !important;
   }
   img {
-    width: 90% !important;
-    height: auto !important;
     max-width: 90% !important;
+    max-height: auto !important;    
   }
 }
 </style>
