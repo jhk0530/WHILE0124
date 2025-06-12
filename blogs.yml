@@ -1408,9 +1408,6 @@
 - name: 이상철
   rss: https://rss.blog.naver.com/1ilsang.xml
   last: "2024-03-13"
-- name: 이상현
-  rss: https://pgmrlsh.tistory.com/rss
-  last: "2024-02-20"
 - name: 이상협
   rss: https://tkdguq05.github.io/rss2.xml
   last: "2024-10-27"
