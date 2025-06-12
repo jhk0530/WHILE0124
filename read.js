@@ -87,7 +87,23 @@ ${desc}
   console.log(`Fetching posts for: ${yesterday}`);
 
   // Clear the markdown file if it exists
-  fs.writeFileSync("daily.md", '<ul style="padding:0;">\n');
+  fs.writeFileSync(
+    "daily.md",
+    `<style>
+@media (max-width: 600px) {
+  body, ul, li, div, span, a {
+    font-size: 90% !important;
+  }
+  img {
+    width: 90% !important;
+    height: auto !important;
+    max-width: 90% !important;
+  }
+}
+</style>
+<ul style="padding:0;">
+`
+  );
 
   for (const item of data) {
     // Use custom headers for non-brunch feeds
