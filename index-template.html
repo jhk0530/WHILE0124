@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>WHILE0124</title>
+    <link rel="stylesheet" href="brand/styles.css" />
+    <link rel="icon" type="image/x-icon" href="brand/favicon.ico" />
+  </head>
+  <body>
+    <div
+      style="
+        width: 90%;
+        margin: 0 auto;
+        display: flex;
+        gap: 40px;
+        align-items: stretch;
+      "
+    >
+      <!-- Left column: 기존 container -->
+      <div
+        class="container"
+        style="
+          flex: 2;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center; /* Center items horizontally */
+        "
+      >
+        <img
+          src="brand/logo.png"
+          alt="while0124 로고"
+          class="logo"
+          style="max-width: 180px"
+        />
+        <div class="subtitle">멋진 블로그의 인사이트를 뉴스레터로<br /></div>
+        <form
+          method="post"
+          action="https://7Epick.jahnen.io/subscription/form"
+          class="listmonk-form"
+          id="newsletterForm"
+        >
+          <input type="hidden" name="nonce" />
+          <input type="email" name="email" required placeholder="E-mail" />
+          <p style="display: none">
+            <input
+              id="2e37b"
+              type="checkbox"
+              name="l"
+              checked
+              value="2e37b37a-7d2f-4f77-a205-8df76446ad16"
+            />
+            <label for="2e37b">WHILE0124</label>
+          </p>
+          <input type="submit" value="구독 신청" />
+        </form>
+        <script src="script.js"></script>
+      </div>
+      <!-- Right column: archive.html embed -->
+      <div class="container" style="flex: 2; min-width: 0">
+        <h2>최근 내용</h2>
+        <div
+          id="archive-content"
+          style="
+            width: 100%;
+            background: #fff;
+            border-radius: 8px;
+            min-height: 200px;
+            max-height: 400px;
+            text-align: start;
+            overflow-y: auto;
+            font-size: 80%;
+          "
+        ></div>
+      </div>
+    </div>
+
+    <div class="footer">&copy; 2025 jahnen. All rights reserved.</div>
+  </body>
+</html>
