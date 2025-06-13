@@ -1501,9 +1501,6 @@
 - name: 이정원
   rss: https://brunch.co.kr/rss/@@aBL
   last: "2024-11-27"
-- name: 이정주
-  rss: https://webnautes.tistory.com/rss
-  last: "2025-05-28"
 - name: 이정해
   rss: https://myinfrabox.tistory.com/rss
   last: "2024-08-15"
