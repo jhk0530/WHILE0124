@@ -2140,9 +2140,6 @@
 - name: 허준기
   rss: https://v2.velog.io/rss/dradnats1012
   last: "2025-05-24"
-- name: 허준회
-  rss: https://joone.net/feed/
-  last: "2024-01-12"
 - name: 허진수
   rss: https://blog.koriel.kr/rss/
   last: "2024-10-09"
