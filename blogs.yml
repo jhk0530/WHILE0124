@@ -1327,9 +1327,6 @@
 - name: 이건
   rss: https://geonlee.tistory.com/rss
   last: "2024-12-29"
-- name: 이광헌
-  rss: https://honeyperl.tistory.com/rss
-  last: "2025-05-28"
 - name: 이구현
   rss: https://blinders.tistory.com/rss
   last: "2025-03-19"
