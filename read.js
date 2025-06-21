@@ -190,7 +190,9 @@ ${desc}
             mdLine += ` ${tags
               .map(
                 (t) =>
-                  `<span class="keyword" style="display: inline-block; background: #FEF3C7; color: #92400E; border-radius: 8px; padding: 2px 8px; margin-right: 4px; font-size: 90%;">#${t}</span>`
+                  `<span class="keyword" style="display: inline-block; background: #FEF3C7; color: #92400E; border-radius: 8px; padding: 2px 8px; margin-right: 4px; font-size: 90%;">#${
+                    typeof t === "string" ? t : JSON.stringify(t)
+                  }</span>`
               )
               .join("")}`;
           mdLine += `</div>\n`;
