@@ -928,9 +928,6 @@
 - name: 손계원
   rss: https://sihan-son.github.io/index.xml
   last: "2025-04-27"
-- name: 손병대
-  rss: http://miconblog.com/feed
-  last: "2024-08-05"
 - name: 손상우
   rss: https://rerewww.github.io/feed
   last: "2024-12-02"
