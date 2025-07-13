@@ -4,9 +4,6 @@
 - name: 강대명
   rss: https://charsyam.wordpress.com/feed/
   last: "2025-05-03"
-- name: 강동윤
-  rss: https://kdy1.dev/rss.xml
-  last: "2025-03-26"
 - name: 강명훈
   rss: https://kangmyounghun.blogspot.com/feeds/posts/default
   last: "2025-05-22"
@@ -451,9 +448,6 @@
 - name: 김주엽
   rss: https://juyeop.tistory.com/rss
   last: "2024-06-30"
-- name: 김주형
-  rss: https://www.getoutsidedoor.com/feed/
-  last: "2024-05-24"
 - name: 김준영
   rss: https://juneyr.dev/feed.xml
   last: "2024-03-31"
@@ -790,9 +784,6 @@
 - name: 박준철
   rss: https://v2.velog.io/rss/pjc0247
   last: "2024-06-26"
-- name: 박준호
-  rss: https://junojunho.com/rss.xml
-  last: "2024-12-11"
 - name: 박준호
   rss: https://blessingdev.wordpress.com/feed/
   last: "2024-04-08"
@@ -2068,9 +2059,6 @@
 - name: 한동호
   rss: https://futurecreator.github.io/feed.xml
   last: "2025-03-26"
-- name: 한상곤
-  rss: https://www.sangkon.com/rss/
-  last: "2025-04-19"
 - name: 한수봉
   rss: https://rss.blog.naver.com/birdparang.xml
   last: "2024-07-02"
