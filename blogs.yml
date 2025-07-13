@@ -532,9 +532,6 @@
 - name: 김태균
   rss: https://feeds.feedburner.com/GaeraeBlog?format=xml
   last: "2025-05-26"
-- name: 김태성
-  rss: https://rss.blog.naver.com/indy9052.xml
-  last: "2025-05-26"
 - name: 김태영
   rss: https://tykimos.github.io/feed.xml
   last: "2025-04-22"
