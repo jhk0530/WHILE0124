@@ -670,9 +670,6 @@
 - name: 문종민
   rss: https://moonjong93.github.io/feed
   last: "2024-08-01"
-- name: 문지형
-  rss: https://inmoonlight.github.io/feed.xml
-  last: "2024-01-13"
 - name: 문태민
   rss: https://v2.velog.io/rss/tmmoond8
   last: "2025-05-04"
