@@ -925,9 +925,6 @@
 - name: 손영수
   rss: https://arload.wordpress.com/feed/
   last: "2025-04-10"
-- name: 손영신
-  rss: https://pizzathiefz.github.io/feed.xml
-  last: "2025-05-26"
 - name: 손영인
   rss: https://v2.velog.io/rss/broccolism
   last: "2025-03-30"
@@ -1693,9 +1690,6 @@
 - name: 정건영
   rss: https://colabear754.tistory.com/rss
   last: "2025-05-23"
-- name: 정경원
-  rss: https://www.gamjaa.com/feed
-  last: "2024-09-09"
 - name: 정경훈
   rss: https://cliearl.github.io/index.xml
   last: "2024-06-02"
