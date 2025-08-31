@@ -142,9 +142,6 @@
 - name: 김경록
   rss: https://krksap.tistory.com/rss
   last: "2025-03-13"
-- name: 김경철
-  rss: https://www.devkuma.com/index.xml
-  last: "2024-09-18"
 - name: 김관희
   rss: https://kimkani.tistory.com/rss
   last: "2024-10-20"
@@ -256,9 +253,6 @@
 - name: 김석범
   rss: https://seokbeomkim.github.io/index.xml
   last: "2024-12-01"
-- name: 김석준
-  rss: https://seokjun.kim/rss/
-  last: "2024-10-17"
 - name: 김석현
   rss: https://lob-dev.tistory.com/rss
   last: "2024-06-15"
@@ -1333,9 +1327,6 @@
 - name: 이동욱
   rss: https://jojoldu.tistory.com/rss
   last: "2025-05-20"
-- name: 이동원
-  rss: https://blog.wonizz.com/feed/
-  last: "2025-04-29"
 - name: 이동윤
   rss: https://spookyjelly.tistory.com/rss
   last: "2024-10-29"
