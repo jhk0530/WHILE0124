@@ -103,9 +103,6 @@
 - name: 권오연
   rss: https://o-yeon.tistory.com/rss
   last: "2025-03-13"
-- name: 권용근
-  rss: https://blog.kingbbode.com/rss
-  last: "2024-10-05"
 - name: 권장호
   rss: https://hojak99.tistory.com/rss
   last: "2025-05-24"
@@ -220,9 +217,6 @@
 - name: 김민수
   rss: https://ding-co.tistory.com/rss
   last: "2025-03-18"
-- name: 김민우
-  rss: https://blog.ateals.site/rss.xml
-  last: "2024-12-23"
 - name: 김민재
   rss: https://v2.velog.io/rss/joshuara7235
   last: "2024-09-20"
@@ -817,9 +811,6 @@
 - name: 박희원
   rss: https://brunch.co.kr/rss/@@19LF
   last: "2024-01-27"
-- name: 박태진
-  rss: https://fernando.kr/rss.xml
-  last: "2024-04-07"
 - name: 방영민
   rss: https://rss.blog.naver.com/appeal7712.xml
   last: "2024-02-21"
@@ -2143,9 +2134,6 @@
 - name: 황현민
   rss: https://v2.velog.io/rss/200woni
   last: "2024-06-26"
-- name: Hohyeon Moon
-  rss: https://www.hohyeonmoon.com/feed.rss
-  last: "2025-01-10"
 - name: Joona Yoon
   rss: https://blog.joonas.io/rss
   last: "2025-04-15"
