@@ -829,9 +829,6 @@
 - name: 배기홍
   rss: https://feeds.feedburner.com/baenefit/slXh
   last: "2025-05-25"
-- name: 배두식
-  rss: https://blog.doosikbae.com/rss
-  last: "2025-05-18"
 - name: 배주웅
   rss: https://v2.velog.io/rss/jbae
   last: "2025-01-02"
