@@ -1069,9 +1069,6 @@
 - name: 안지민
   rss: https://codingsmu.tistory.com/rss
   last: "2025-02-08"
-- name: 안지훈
-  rss: https://blog.jihoon.me/feed.rss
-  last: "2025-04-08"
 - name: 안형우
   rss: https://mytory.net/feed
   last: "2025-05-06"
