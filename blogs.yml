@@ -76,9 +76,6 @@
 - name: 구성우
   rss: https://sungwookoo.tistory.com/rss
   last: "2024-09-10"
-- name: 구영표
-  rss: https://marshallku.com/dev/feed
-  last: "2024-11-07"
 - name: 구재현
   rss: https://koosaga.com/rss
   last: "2025-04-20"
@@ -110,7 +107,7 @@
   rss: https://cojette.github.io/feed.xml
   last: "2025-04-25"
 - name: 권정혁
-  rss: https://xguru.net/feed
+  rss: https://xguru.net/index.xml
   last: "2025-01-03"
 - name: 권창현
   rss: http://thoughts.chkwon.net/feed/
@@ -118,9 +115,6 @@
 - name: 권태관
   rss: https://taetaetae.github.io/index.xml
   last: "2024-05-26"
-- name: 권태환
-  rss: https://thdev.tech/feed.xml
-  last: "2025-04-20"
 - name: 권현수
   rss: https://hye-on-astrogrammer.tistory.com/rss
   last: "2024-02-04"
@@ -232,9 +226,6 @@
 - name: 김보경
   rss: https://bellbpng.github.io/feed.xml
   last: "2024-04-10"
-- name: 김백
-  rss: https://baek-kim-dev.site/rss
-  last: "2025-02-16"
 - name: 김상우
   rss: https://v2.velog.io/rss/heyksw
   last: "2025-03-27"
@@ -568,9 +559,6 @@
 - name: 김형준
   rss: https://flambeeyoga.tistory.com/rss
   last: "2025-03-23"
-- name: 김형록
-  rss: https://rokrokss.com/feed.xml
-  last: "2025-05-12"
 - name: 김혜빈
   rss: https://ohwhatisthis.tistory.com/rss
   last: "2024-06-18"
@@ -598,9 +586,6 @@
 - name: 남규형
   rss: https://dreamcoding.tistory.com/rss
   last: "2025-02-13"
-- name: 남성욱
-  rss: https://000namc.github.io/feed.xml
-  last: "2025-01-07"
 - name: 남승호
   rss: https://softwareeng.tistory.com/rss
   last: "2025-05-24"
@@ -793,9 +778,6 @@
 - name: 박찬영
   rss: https://univdev.page/feed.xml
   last: "2025-02-04"
-- name: 박창주
-  rss: https://medium.com/feed/@changjoopark
-  last: "2025-05-14"
 - name: 박한수
   rss: https://v2.velog.io/rss/@invidam
   last: "2025-03-30"
@@ -890,7 +872,7 @@
   rss: https://medium.com/feed/@studioego
   last: "2025-01-16"
 - name: 손계원
-  rss: https://sihan-son.github.io/index.xml
+  rss: https://sihan-son.github.io/rss.xml
   last: "2025-04-27"
 - name: 손상우
   rss: https://rerewww.github.io/feed
@@ -1252,9 +1234,6 @@
 - name: 윤영식
   rss: https://mobicon.tistory.com/rss
   last: "2025-03-11"
-- name: 윤우식
-  rss: https://suitee.me/rss.xml
-  last: "2024-10-30"
 - name: 윤제상
   rss: https://medium.com/feed/@yoonjs2
   last: "2025-04-23"
@@ -1417,9 +1396,6 @@
 - name: 이웅희
   rss: https://woongheelee.com/rss
   last: "2025-04-08"
-- name: 이윤희
-  rss: https://yuni-q.github.io/rss.xml
-  last: "2025-01-30"
 - name: 이재석
   rss: http://rss.blog.naver.com/dodream7.xml
   last: "2025-05-18"
@@ -1537,9 +1513,6 @@
 - name: 이한별
   rss: https://lhb0517.tistory.com/rss
   last: "2025-05-23"
-- name: 이한영
-  rss: https://lhy.kr/feed.xml
-  last: "2024-10-10"
 - name: 이현우
   rss: https://rss.blog.naver.com/hidejj79.xml
   last: "2024-04-10"
@@ -1762,15 +1735,9 @@
 - name: 정찬영
   rss: https://bbogle2.tistory.com/rss
   last: "2025-03-14"
-- name: 정찬효
-  rss: https://blog.chanhyo.dev/rss.xml
-  last: "2024-03-28"
 - name: 정채환
   rss: https://rss.blog.naver.com/funchcode.xml
   last: "2024-08-26"
-- name: 정철
-  rss: https://wedul.site/rss
-  last: "2025-05-18"
 - name: 정해영
   rss: https://togll.tistory.com/rss
   last: "2024-04-08"
@@ -1837,9 +1804,6 @@
 - name: 조창민
   rss: https://incredible.ai/feed.xml
   last: "2025-04-01"
-- name: 조현영
-  rss: https://www.zerocho.com/api/rss.xml
-  last: "2024-11-19"
 - name: 조현우
   rss: https://blog.haenu.com/rss
   last: "2024-05-12"
@@ -1873,9 +1837,6 @@
 - name: 진용진
   rss: https://brunch.co.kr/rss/@@2rV
   last: "2025-05-26"
-- name: 진재명
-  rss: https://blog.jaemyeong.com/rss.xml
-  last: "2024-01-18"
 - name: 진태양
   rss: https://dataportal.kr/rss.xml
   last: "2025-03-08"
@@ -1972,9 +1933,6 @@
 - name: 최주희
   rss: https://v2.velog.io/rss/juhee067
   last: "2025-04-03"
-- name: 최준건
-  rss: https://junegunn.kr/feed/
-  last: "2024-11-10"
 - name: 최준영
   rss: https://medium.com/feed/@chrisjune-13837
   last: "2025-05-28"
