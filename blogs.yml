@@ -487,9 +487,6 @@
 - name: 김철민
   rss: https://kbs4674.tistory.com/rss
   last: "2025-01-26"
-- name: 김청진
-  rss: https://jinblog.kr/rss
-  last: "2024-10-28"
 - name: 김태강
   rss: https://brunch.co.kr/rss/@@5sFx
   last: "2025-04-08"
@@ -1279,9 +1276,6 @@
 - name: 이동근
   rss: https://blog.dizy.dev/feed.xml
   last: "2024-11-16"
-- name: 이동근
-  rss: https://blog.dglee.co.kr/rss
-  last: "2024-05-30"
 - name: 이동욱
   rss: https://jojoldu.tistory.com/rss
   last: "2025-05-20"
@@ -1888,9 +1882,6 @@
 - name: 최승호
   rss: https://seungdols.tistory.com/rss
   last: "2025-05-28"
-- name: 최승환
-  rss: https://choi-seunghwan.tistory.com/rss
-  last: "2025-04-06"
 - name: 최영주
   rss: https://moonnight0.tistory.com/rss
   last: "2025-05-21"
@@ -1978,9 +1969,6 @@
 - name: 한수봉
   rss: https://rss.blog.naver.com/birdparang.xml
   last: "2024-07-02"
-- name: 한수훈
-  rss: https://tech.ssut.me/rss/
-  last: "2025-05-10"
 - name: 한재엽
   rss: https://jbee.io/rss.xml
   last: "2025-05-28"
