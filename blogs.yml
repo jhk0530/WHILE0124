@@ -337,9 +337,6 @@
 - name: 김용래
   rss: https://usage.tistory.com/rss
   last: "2025-03-03"
-- name: 김용묵
-  rss: http://moogi.new21.org/tc/rss
-  last: "2025-05-25"
 - name: 김용욱
   rss: https://dalinaum.github.io/feed.xml
   last: "2024-08-25"
@@ -397,9 +394,6 @@
 - name: 김정출
   rss: https://jeongchul.tistory.com/rss
   last: "2024-11-10"
-- name: 김정형
-  rss: https://hello-world.kr/rss
-  last: "2024-06-18"
 - name: 김정환
   rss: https://jeonghwan-kim.github.io/feed.xml
   last: "2025-05-18"
@@ -490,9 +484,6 @@
 - name: 김태강
   rss: https://brunch.co.kr/rss/@@5sFx
   last: "2025-04-08"
-- name: 김태곤
-  rss: https://taegon.kim/feed
-  last: "2025-04-13"
 - name: 김태균
   rss: https://feeds.feedburner.com/GaeraeBlog?format=xml
   last: "2025-05-26"
@@ -823,9 +814,6 @@
 - name: 백진후
   rss: https://ake.kr/rss.xml
   last: "2025-01-12"
-- name: 변경연
-  rss: https://kyungyeon.dev/rss.xml
-  last: "2025-03-10"
 - name: 변규현
   rss: https://novemberde.github.io/index.xml
   last: "2025-03-03"
@@ -865,6 +853,9 @@
 - name: 성대현
   rss: https://medium.com/feed/@studioego
   last: "2025-01-16"
+- name: 소희
+  rss: https://v2.velog.io/rss/cconac
+  last: "2026-08-13"
 - name: 손계원
   rss: https://sihan-son.github.io/rss.xml
   last: "2025-04-27"
@@ -1087,6 +1078,9 @@
 - name: 염근철
   rss: https://ykarma1996.tistory.com/rss
   last: "2025-02-27"
+- name: 예름
+  rss: https://v2.velog.io/rss/yereumi
+  last: "2026-08-17"
 - name: 오길호
   rss: https://kilho.net/feed
   last: "2025-05-28"
@@ -1219,9 +1213,6 @@
 - name: 윤석진
   rss: https://blog.sysbot32.com/rss
   last: "2025-05-24"
-- name: 윤석찬
-  rss: https://feeds.feedburner.com/channy
-  last: "2025-04-06"
 - name: 윤영식
   rss: https://mobicon.tistory.com/rss
   last: "2025-03-11"
@@ -1954,18 +1945,12 @@
 - name: 추영식
   rss: https://hides.tistory.com/rss
   last: "2025-01-14"
-- name: 하준호
-  rss: https://brunch.co.kr/rss/@@R17
-  last: "2025-05-25"
 - name: 하현준
   rss: https://v2.velog.io/rss/haryan248
   last: "2025-05-11"
 - name: 한구영
   rss: https://developer-h.tistory.com/rss
   last: "2024-05-06"
-- name: 한동호
-  rss: https://futurecreator.github.io/feed.xml
-  last: "2025-03-26"
 - name: 한수봉
   rss: https://rss.blog.naver.com/birdparang.xml
   last: "2024-07-02"
@@ -2009,7 +1994,7 @@
   rss: https://jason-heo.github.io/atom
   last: "2024-08-18"
 - name: 허정원
-  rss: https://jwher.github.io/posts/rss.xml
+  rss: https://jwher.github.io/rss.xml
   last: "2025-04-15"
 - name: 허정진
   rss: https://serpiko.tistory.com/rss
